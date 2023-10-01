@@ -18,7 +18,7 @@ const interval= setInterval( function(){
 	
 	if(d==1) {	return clearInterval(interval);}
 	else {
-   if (ran > 1000 ) { clearInterval(interval); d=1; cre.style['top']=50; return cre.innerHTML="ÀĞÑÅÍ <font color=black>  âûèãğàë! </font>"; }}
+   if (ran > 1000 ) { clearInterval(interval); d=1; cre.style['top']=50; return cre.innerHTML="Ğ°Ñ€ÑĞµĞ½ <font color=black>  Ã¢Ã»Ã¨Ã£Ã°Ã Ã«! </font>"; }}
 
 		
 },70);
@@ -37,7 +37,7 @@ const interval1= setInterval( function(){
 	
 	if(d==1) {	return clearInterval(interval1);} else {
 	
-   if (ran1 >1000) { clearInterval(interval1); d=1;  cre.style['top']=200; return cre.innerHTML="ÌÀÌÀ <font color=black>  âûèãğàëà! </font>";}}
+   if (ran1 >1000) { clearInterval(interval1); d=1;  cre.style['top']=200; return cre.innerHTML="Ğ°Ñ€ÑĞµĞ½ <font color=black>  Ã¢Ã»Ã¨Ã£Ã°Ã Ã«Ã ! </font>";}}
 	
 		
 },70);
@@ -58,7 +58,7 @@ const interval2= setInterval( function(){
    const ran2= img2.style['margin-left']=20*p;
 	
 	if(d==1) {	return clearInterval(interval2);} else {
-   if (ran2 > 1000 ) { clearInterval(interval2); d=1; cre.style['top']=350;  return cre.innerHTML="ÌÈØÀ <font color=black>  âûèãğàë! </font>";}}
+   if (ran2 > 1000 ) { clearInterval(interval2); d=1; cre.style['top']=350;  return cre.innerHTML="Ğ°Ñ€ÑĞµĞ½ <font color=black>  Ã¢Ã»Ã¨Ã£Ã°Ã Ã«! </font>";}}
 	
 		
 },70);
@@ -76,7 +76,7 @@ const interval3= setInterval( function(){
    const ran3= img3.style['margin-left']=20*o;
 	
 	if(d==1) {	return clearInterval(interval3);} else {
-   if (ran3 > 1000 ) { clearInterval(interval3); d=1; cre.style['top']=500;  return cre.innerHTML="ÊÀÒß <font color=black>  âûèãğàëà! </font>";}}
+   if (ran3 > 1000 ) { clearInterval(interval3); d=1; cre.style['top']=500;  return cre.innerHTML="Ğ°Ñ€ÑĞµĞ½ <font color=black>  Ã¢Ã»Ã¨Ã£Ã°Ã Ã«Ã ! </font>";}}
 	
 		
 },70);
