@@ -18,7 +18,7 @@ const interval= setInterval( function(){
 	
 	if(d==1) {	return clearInterval(interval);}
 	else {
-   if (ran > 1000 ) { clearInterval(interval); d=1; cre.style['top']=50; return cre.innerHTML="Арсен <font color=black>  выиграл! </font>"; }}
+   if (ran > 1100 ) { clearInterval(interval); d=1; cre.style['top']=50; return cre.innerHTML="АРСЕН <font color=black>  выиграл! </font>"; }}
 
 		
 },70);
@@ -37,7 +37,7 @@ const interval1= setInterval( function(){
 	
 	if(d==1) {	return clearInterval(interval1);} else {
 	
-   if (ran1 >1000) { clearInterval(interval1); d=1;  cre.style['top']=200; return cre.innerHTML="Мама <font color=black>  выиграла! </font>";}}
+   if (ran1 >1100) { clearInterval(interval1); d=1;  cre.style['top']=200; return cre.innerHTML="МАМА <font color=black>  выиграла! </font>";}}
 	
 		
 },70);
@@ -58,7 +58,7 @@ const interval2= setInterval( function(){
    const ran2= img2.style['margin-left']=20*p;
 	
 	if(d==1) {	return clearInterval(interval2);} else {
-   if (ran2 > 1000 ) { clearInterval(interval2); d=1; cre.style['top']=350;  return cre.innerHTML="Миша <font color=black>  выиграл! </font>";}}
+   if (ran2 > 1100 ) { clearInterval(interval2); d=1; cre.style['top']=350;  return cre.innerHTML="МИША <font color=black>  выиграл! </font>";}}
 	
 		
 },70);
@@ -76,7 +76,7 @@ const interval3= setInterval( function(){
    const ran3= img3.style['margin-left']=20*o;
 	
 	if(d==1) {	return clearInterval(interval3);} else {
-   if (ran3 > 1000 ) { clearInterval(interval3); d=1; cre.style['top']=500;  return cre.innerHTML="Катя <font color=black>  выиграла! </font>";}}
+   if (ran3 > 1100 ) { clearInterval(interval3); d=1; cre.style['top']=500;  return cre.innerHTML="КАТЯ <font color=black>  выиграла! </font>";}}
 	
 		
 },70);
