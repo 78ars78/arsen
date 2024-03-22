@@ -76,7 +76,7 @@ const interval3= setInterval( function(){
    const ran3= img3.style['margin-left']=20*o;
 	
 	if(d==1) {	return clearInterval(interval3);} else {
-   if (ran3 > 1100 ) { clearInterval(interval3); d=1; cre.style['top']=500;  return cre.innerHTML="КАТЯ <font color=black>  выиграла! </font>";}}
+   if (ran3 > 1100 ) { clearInterval(interval3); d=1; cre.style['top']=500;  return cre.innerHTML="ВЕРОНИКЕА <font color=black>  выиграла! </font>";}}
 	
 		
 },70);
